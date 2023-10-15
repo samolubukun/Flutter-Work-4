@@ -1,6 +1,8 @@
 # Flutter-Work-4
 A simple Flutter app for calculating Body Mass Index (BMI). This app allows users to input their height (in centimeters) and weight (in kilograms) to determine their BMI and receive a classification based on the BMI value.
 
+
+
 Features:
 
 
@@ -12,7 +14,8 @@ User-friendly and intuitive interface.
 
 
 
-Usage
+Usage:
+
 Open the app on your mobile device or emulator.
 
 Enter your height (in centimeters) and weight (in kilograms) in the respective input fields.
@@ -23,7 +26,9 @@ View your BMI result and classification.
 
 
 
+
 SCREENSHOTS:
+
 
 ![Screenshot (61)](https://github.com/samolubukun/Flutter-Work-4/assets/137217836/2c86050b-0eb2-48dc-b3bd-bc20ed8ff9e6)
 ![Screenshot (62)](https://github.com/samolubukun/Flutter-Work-4/assets/137217836/d023f791-4283-4d73-a90d-f5018a1ca81f)
